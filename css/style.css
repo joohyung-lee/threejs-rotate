@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/* layout */
+html,body{
+    height: 100%;
+}
+body {
+    background: linear-gradient(-45deg, #FF7495 0%, rgb(140, 122, 254) 80%);
+    overflow: hidden;
+    
+}
